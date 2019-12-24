@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  ColorSwitch
 //
-//  Created by Steffen Römer on 05.12.19.
+//  Created by Alexander Römer on 21.12.19.
 //  Copyright © 2019 Steffen Römer. All rights reserved.
 //
 
